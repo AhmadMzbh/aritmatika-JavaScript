@@ -7,7 +7,7 @@
 # BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Mobile Tools EDITOR CODE
 .mtj.tmp/
 
 # Package Files #
@@ -19,5 +19,5 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs, see https://play.google.com/store/apps/details?id=com.rhmsoft.code
 hs_err_pid*
